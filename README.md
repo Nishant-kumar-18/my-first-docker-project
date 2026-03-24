@@ -62,7 +62,7 @@ docker run -d -p 80:80 nishantkumar9006926796/my-first-docker-image:latest
 
 📸 Project Screenshot
 
-"Docker Output" (Docker_screenshots.jpeg)
+![Docker Output](Docker_screenshots.jpeg)
 
 ---
 
